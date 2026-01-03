@@ -9,11 +9,11 @@ import { Toaster } from "sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "The Tools Hub - 60+ Free Online Tools",
+	title: "The Tools Hub – 50+ Free Online Tools to Work Smarter",
 	description:
-		"Boost your productivity with our collection of 60+ powerful, free online tools. From SEO optimization to development utilities, password generators to calculators - all in one place.",
+		"Use 50+ powerful free online tools for SEO, developers, marketers, and everyday users—all in one hub designed to boost speed and productivity.",
 	keywords:
-		"online tools, free tools, SEO tools, calculators, generators, text tools, image tools, developer tools, password generator, QR code generator, thetoolshub, thetoolshub.com, thetoolshub.in",
+		"online tools, free tools, SEO tools, calculators, generators, text tools, image tools, developer tools, password generator, QR code generator",
 	authors: [{ name: "The Tools Hub Team" }],
 	creator: "The Tools Hub",
 	publisher: "The Tools Hub",
@@ -21,19 +21,19 @@ export const metadata: Metadata = {
 	openGraph: {
 		type: "website",
 		locale: "en_US",
-		url: "https://www.yourdomain.com",
-		title: "The Tools Hub - 60+ Free Online Tools",
+		url: "https://nba-playoff.com",
+		title: "The Tools Hub – 50+ Free Online Tools to Work Smarter",
 		description:
-			"Boost your productivity with our collection of powerful, free online tools.",
+			"Use 50+ powerful free online tools for SEO, developers, marketers, and everyday users—all in one hub designed to boost speed and productivity.",
 		siteName: "The Tools Hub",
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "The Tools Hub - 60+ Free Online Tools",
+		title: "The Tools Hub – 50+ Free Online Tools to Work Smarter",
 		description:
-			"Boost your productivity with our collection of powerful, free online tools.",
+			"Use 50+ powerful free online tools for SEO, developers, marketers, and everyday users—all in one hub designed to boost speed and productivity.",
 		creator: "@thetoolshub",
-		images: ["https://www.yourdomain.com/og-image.jpg"],
+		images: ["https://nba-playoff.com/og-image.png"],
 	},
 };
 
