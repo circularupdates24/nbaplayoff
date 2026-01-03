@@ -3,7 +3,7 @@ import { email, siteName } from "@/lib/constant";
 import { FileText, Scale, AlertTriangle, Users } from "lucide-react";
 
 export const metadata = {
-	title: "Terms of Service | SMM Garden",
+	title: "Terms of Service | The Tools Hub",
 	description: "Please read these terms carefully before using our services.",
 };
 
@@ -217,13 +217,13 @@ export default function TermsPage() {
 							</p>
 							<div className='text-gray-600'>
 								<p>
-									<strong>Email:</strong> {email}
+									<strong>Email:</strong> ttippammat@gmail.com
 								</p>
 								<p>
 									<strong>Last Updated:</strong> July 2025
 								</p>
 								<p>
-									<strong>Effective Date:</strong> July 1,
+									<strong>Effective Date:</strong> July 25,
 									2025
 								</p>
 							</div>
