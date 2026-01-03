@@ -3,7 +3,7 @@ import { AlertTriangle, Info, Shield, FileText } from "lucide-react";
 import { email, siteName } from "@/lib/constant";
 
 export const metadata = {
-	title: "Disclaimer | SMM Garden",
+	title: "Disclaimer | The Tools Hub",
 	description:
 		"Important information about the use of our tools and services.",
 };
@@ -250,7 +250,7 @@ export default function DisclaimerPage() {
 									2025
 								</p>
 								<p>
-									<strong>Contact:</strong> {email}
+									<strong>Contact:</strong> ttippammat@gmail.com
 								</p>
 							</div>
 						</CardContent>
