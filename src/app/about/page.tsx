@@ -3,7 +3,7 @@ import { Users, Target, Zap, Shield } from "lucide-react";
 import { siteName } from "@/lib/constant";
 
 export const metadata = {
-	title: "About Us | SMM Garden",
+	title: "About Us | The Tools Hub",
 	description:
 		"We're on a mission to provide the most comprehensive collection of free online tools to boost productivity and simplify digital tasks.",
 };
