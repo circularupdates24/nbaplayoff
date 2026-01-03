@@ -20,7 +20,7 @@ const footer = () => {
 							</span>
 						</Link>
 						<p className='text-gray-400'>
-							Your one-stop destination for powerful online tools.
+							Your essential online tools, all in one place.
 						</p>
 					</div>
 					<div>
